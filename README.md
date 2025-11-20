@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: USTH ICT1
-* Student ID: Not-Vietnamese
+* Student Name: Le Thi Cam Giang
+* Student ID: 22BA1308
 * Student Group ID: Not-for-now
